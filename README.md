@@ -1,3 +1,3 @@
 # reactjs-demo
-My first code of react /n
-my name is Ruchi singh
+My first code of react 
+<be> my name is Ruchi singh
